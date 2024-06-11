@@ -24,7 +24,7 @@ library(htmlwidgets)
 library(leaflet.providers)
 
 
-setwd("C:/Users/Pilar/Desktop/Proyectos/Mi Pieza Enac/Mi_pieza_2023")
+setwd("C:/Users/Pilar/Desktop/Proyectos/SISU/Mi_pieza_2023")
 
 
 shape<-st_read("20220524_info_publica.shp")
