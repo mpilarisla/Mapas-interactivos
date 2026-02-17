@@ -2,7 +2,7 @@
 
 🔗 Ver el mapa publicado:
 
-👉 https://sites.google.com/view/mapa-mipieza/inicio
+👉 https://mpilarisla.github.io/Mapas-interactivos
 
 ---
 
